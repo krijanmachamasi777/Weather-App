@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: url("images/background.jpg");
+  background: url("images/Background_image.jpg");
   background-size: cover;
   background-position: center;
   overflow: hidden;
@@ -20,7 +20,7 @@ body {
   position: relative;
   width: 400px;
   height: 100px;
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(255, 255, 255, 0.01);
   backdrop-filter: blur(30px);
   border: 2px solid rgba(255, 255, 255, 0.2);
   border-radius: 16px;
